@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-__author__ = 'ukman'
+__author__ = 'patas'
 
 import urllib
 import lxml.html
