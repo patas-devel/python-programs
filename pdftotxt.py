@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# pro linux, musi by v systemu nainstalovan poppler-utils
 __author__ = 'patas'
 
 import urllib
